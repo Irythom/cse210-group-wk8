@@ -1,6 +1,5 @@
 from game.casting.actor import Actor
 
-
 class Score( Actor ):
     """
     An item with the score of the game. 
