@@ -31,8 +31,8 @@ root                              ( project root folder )
 
 ## Authors
 ---
-* Miguel López (lop18028@byui.edu) :
-* Ryan Weinheimer (ryanweinheimer@gmail.com) :
-* Diana Guerra (diana.1609@hotmail.com) :
-* Eduardo Mosquera Galarza (mos21008@byui.edu) :
-* Chioneso Chatayika(cchatayika@outlook.com) :
+* Miguel López (lop18028@byui.edu) : Coded __main__.py, Director class, and Stone class. Oversaw the review of the project as a whole.
+* Ryan Weinheimer (ryanweinheimer@gmail.com) : Created the team repository, coded Actor class, Cast class and updated README file.
+* Diana Guerra (diana.1609@hotmail.com) : Coded Keyboard_service class and Video_service class, also update README file too.
+* Eduardo Mosquera Galarza (mos21008@byui.edu) : Coded Color class.
+* Chioneso Chatayika(cchatayika@outlook.com) : Coded Point class.
