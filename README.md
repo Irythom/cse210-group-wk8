@@ -35,4 +35,4 @@ root                              ( project root folder )
 * Ryan Weinheimer (ryanweinheimer@gmail.com) : Created the team repository, coded Actor class, Cast class and updated README file.
 * Diana Guerra (diana.1609@hotmail.com) : Coded Keyboard_service class and Video_service class, also update README file too.
 * Eduardo Mosquera Galarza (mos21008@byui.edu) : Coded Color class.
-* Chioneso Chatayika(cchatayika@outlook.com) : Coded Score class.
+* Chioneso Chatayika(cchatayika@outlook.com) : Coded Point class.
